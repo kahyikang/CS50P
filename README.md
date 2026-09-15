@@ -6,6 +6,12 @@ The repository documents my progression through the course, from fundamental Pyt
 
 > **Note:** This repository is intended as my personal learning archive and portfolio of completed CS50P work.
 
+## Certificate 🎓
+
+I successfully completed **HarvardX CS50's Introduction to Programming with Python (CS50P)**.
+
+🔗 [View my CS50P Certificate](https://cs50.harvard.edu/certificates/d024a767-3974-4211-b4c4-20ceb2eee6a0)
+
 ## Course Overview
 
 CS50P is Harvard University's introduction to programming with Python. The course focuses on problem solving and Python programming through lectures, exercises, problem sets, testing, and a final project.
