@@ -23,23 +23,6 @@ Throughout the course, I practiced:
 - Object-oriented programming
 - Program design and problem solving
 
-## Repository Structure
-
-```text
-CS50P/
-├── Learning/
-├── Week 0/
-├── Week 1/
-├── Week 2/
-├── Week 3/
-├── Week 4/
-├── Week 5/
-├── Week 6/
-├── Week 7/
-├── Week 8/
-└── project/
-```
-
 ## Coursework
 
 | Week | Topic | Exercises / Problem Sets |
