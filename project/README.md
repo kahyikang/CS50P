@@ -1,6 +1,6 @@
 # The Locked Lab
 
-#### Video Demo: <YOUR VIDEO URL>
+#### Video Demo: <https://youtu.be/IT21zpzsW_o?si=qBPJUuhKKJB9R2fo>
 
 #### Description:
 
